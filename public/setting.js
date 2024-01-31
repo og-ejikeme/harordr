@@ -1,0 +1,1 @@
+var dbaseURL =  'https://ordersmxmagic.com.ng/harward.mx.magic/private/';
